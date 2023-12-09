@@ -26,5 +26,4 @@ y = input()
 y = int(y)
 rs = 2 * x + y + 2 * (x + y)
 print(rs)
-
 print(float(len("4" * 2)))
